@@ -20,7 +20,7 @@ add_lunch_combo rootbox_mako-userdebug
 add_lunch_combo rootbox_manta-userdebug
 add_lunch_combo rootbox_n7000-userdebug
 add_lunch_combo rootbox_n7100-userdebug
-add_lunch_combo rootbox_mb886-userdebug
+add_lunch_combo rootbox_qinara-userdebug
 add_lunch_combo rootbox_quincyatt-userdebug
 add_lunch_combo rootbox_toro-userdebug
 add_lunch_combo rootbox_t0lte-userdebug
